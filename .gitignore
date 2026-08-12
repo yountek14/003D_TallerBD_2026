@@ -1,0 +1,15 @@
+# Oracle SQL Developer
+*.sql~
+*.sql#
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
